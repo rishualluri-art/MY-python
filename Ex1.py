@@ -27,4 +27,4 @@ while True:
     elif tt == "what is your favorite hobby":
         print("I like to help people I also like to learn new things")
     else:
-        print("Im sorry, I dont get what you are saying.")
+        print
