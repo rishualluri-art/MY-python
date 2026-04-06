@@ -1,4 +1,4 @@
-asrxdctfvygbhcdtfvybghnimport random as rand
+import random as rand
 
 animals= {'rhino': ["strong", "horned", "gray"],'turtle':['slow', 'shelled', 'green'],'hare':["fast", "white", "furry"],'snake':['scaled','hisses','fangs'],'mouse':['small','squeaky','cheese loving'],'elephant':['big','gray','loud'],'lion':['mane','predator','carnivore'],'parrot':['feathered','repeating','colorful']}
     
