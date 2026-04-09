@@ -6,4 +6,6 @@ w={
 }
 h=input("Do you want to guess your freinds/families B-day")
 if h in w:
-    print("hooray",w[h],"'s Bday is That month+date")
+    print("hooray",w[h],"'s Bday is that date")
+else:
+    print("sorry that is not a birthday on the list")
